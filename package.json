@@ -1,0 +1,16 @@
+{
+  "name": "usaf-sdi-node-http-server",
+  "version": "1.0.0",
+  "description": "node server starter kit",
+  "main": "server.js",
+  "type": "commonjs",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Kelley, Galvanize",
+  "license": "MIT"
+}
